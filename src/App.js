@@ -119,7 +119,7 @@ function App() {
           </div>
           <div className="resume_item resume_work">
             <div className="title">
-              <p className="bold">Project Couses</p>
+              <p className="bold">Project Courses</p>
             </div>
             <ul>
               <li>
