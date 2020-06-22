@@ -103,15 +103,6 @@ function App() {
                     <p>nguyenthanhduc</p>
                   </div>
                 </li>
-                <li>
-                  <div className="icon">
-                  <i class="fab fa-instagram-square"></i>
-                  </div>
-                  <div className="data">
-                    <p className="semi-bold">Instagram</p>
-                    <p>nguyenthanhduc05051999</p>
-                  </div>
-                </li>
               </ul>
             </div>
           </div>
@@ -134,7 +125,7 @@ function App() {
               <li>
                 <div className="date">2017 - 2018</div>
                 <div className="info">
-                  <p className="semi-bold">China Chess</p>
+                  <p className="semi-bold">Chinese Chess</p>
                   <p>
                      App chess game can play with 2 player or player and computer. 
                      Player can use button "Undo" and "Save" ( limit is 5 ). 

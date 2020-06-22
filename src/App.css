@@ -34,7 +34,7 @@ body {
 }
 
 .resume .resume_left{
-  width: 300px;
+  width: 260px;
   background: #0bb5f4;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .resume .resume_left .resume_profile img{
-  width: 300px;
+  width: 260px;
   height: 100%;
   border-radius: 50%;
 }
